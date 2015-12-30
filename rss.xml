@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Homepage1]]></title>
+        <description><![CDATA[Homepage1]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Wed, 30 Dec 2015 14:06:52 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Good news]]></title>
+            <description><![CDATA[<article><h1>Good news</h1><p>The bad news is nothing lasts forever,
+The good news is nothing lasts forever. - J. Cole.   </p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/2a8abf1186bf51fe0fd42eb733a8b51f6417297f.jpg"></article>]]></description>
+            <link>undefinedgood-news/index.html</link>
+            <guid isPermaLink="false">1d8b6d5d-9636-47a0-a7d2-40330759dd2c</guid>
+            <pubDate>Wed, 30 Dec 2015 14:06:42 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
