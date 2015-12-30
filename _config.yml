@@ -1,0 +1,28 @@
+name: Homepage1
+favicon: null
+layout_spectrum: 0.4732163669541478
+typography_spectrum: 0.059541687136515975
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#A690A4'
+    - '#B68F9D'
+    - '#C8ACAB'
+    - '#FBB9BF'
+    - '#E376B7'
+  brandStrength: 0.10262844315730035
+  lightness: 0.10701844445429742
+  saturation: 0.420300334924832
+  rhythmicContrast: 0.9540278250351548
+purpose: []
