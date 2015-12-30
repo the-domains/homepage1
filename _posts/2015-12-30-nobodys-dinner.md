@@ -6,18 +6,18 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2015-12-30T19:25:47.993Z'
-dateModified: '2015-12-30T19:25:26.853Z'
+datePublished: '2015-12-30T19:56:08.845Z'
+dateModified: '2015-12-30T19:56:03.421Z'
 title: "nobody's dinner"
 author: []
+sourcePath: _posts/2015-12-30-nobodys-dinner.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2015-12-30-nobodys-dinner.md
-published: true
 url: nobodys-dinner/index.html
 _type: Article
 
