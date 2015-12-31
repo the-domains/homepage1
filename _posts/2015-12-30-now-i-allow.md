@@ -6,18 +6,18 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2015-12-30T19:51:20.117Z'
-dateModified: '2015-12-30T19:51:03.000Z'
+datePublished: '2015-12-31T11:13:05.336Z'
+dateModified: '2015-12-31T11:12:45.085Z'
 title: now I allow
 author: []
+sourcePath: _posts/2015-12-30-now-i-allow.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2015-12-30-now-i-allow.md
-published: true
 url: now-i-allow/index.html
 _type: Article
 
