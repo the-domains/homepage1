@@ -1,6 +1,6 @@
 name: Homepage1
 favicon: null
-layout_spectrum: 0.11467
+layout_spectrum: 0.12464
 typography_spectrum: 0.5917
 cta:
   domain: null
@@ -16,11 +16,11 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#A690A4'
-    - '#B68F9D'
-    - '#C8ACAB'
-    - '#FBB9BF'
-    - '#E376B7'
+    - '#070713'
+    - '#9a9083'
+    - '#dccfc9'
+    - '#534949'
+    - '#fffdf9'
   brandStrength: 0.25
   lightness: 0.10701844445429742
   saturation: 0.420300334924832
