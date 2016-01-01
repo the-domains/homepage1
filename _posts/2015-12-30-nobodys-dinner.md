@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2015-12-31T11:13:18.192Z'
-dateModified: '2015-12-31T11:12:57.688Z'
+datePublished: '2016-01-01T11:01:02.357Z'
+dateModified: '2016-01-01T11:00:58.433Z'
 title: "nobody's dinner"
 author: []
 sourcePath: _posts/2015-12-30-nobodys-dinner.md
@@ -22,8 +22,6 @@ url: nobodys-dinner/index.html
 _type: Article
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/ca80f8ce-f73b-400a-a6cd-5b824727fe86.jpg)
-
 I'm 
 
 no longer 
@@ -32,7 +30,7 @@ a doubter,
 nor,
 anybody's dinner. 
 
-I've finally reconciled 
+I've finally reconciled ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/c8b9cf0638620020793578dbc7ceed7268812526.jpg)
 
 my outer
 with my inner.
