@@ -6,23 +6,23 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2015-12-31T18:05:31.671Z'
-dateModified: '2015-12-31T18:03:49.321Z'
+datePublished: '2016-01-01T13:39:14.676Z'
+dateModified: '2016-01-01T13:39:02.356Z'
 title: the great pretender
 author: []
+sourcePath: _posts/2015-12-31-the-great-pretender.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2015-12-31-the-great-pretender.md
-published: true
 url: the-great-pretender/index.html
 _type: Article
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/4eb913d3-3f85-46dd-839a-5ab4ca45bea5.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/5c44330af6f626a33531d580e20ea62128aec18b.jpg)
 
 Silly me
 I thought I had to 
