@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2015-12-30T14:28:53.296Z'
-dateModified: '2015-12-30T14:28:36.771Z'
+datePublished: '2016-01-01T11:01:52.820Z'
+dateModified: '2016-01-01T11:01:49.049Z'
 title: where you are
 author: []
 sourcePath: _posts/2015-12-30-where-you-are.md
@@ -22,7 +22,7 @@ url: where-you-are/index.html
 _type: Article
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/6307863b-34db-40c7-a838-a5be76b66ef3.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/97b9fd785ad341787b404255ffdaa4e92c14a9db.jpg)
 
 Let's think the unthinkable, let's do the undoable. Let us prepare to grapple with the ineffable itself, and see if we may not eff it after all. - Douglas Adams 
 
