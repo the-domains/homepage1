@@ -3,11 +3,11 @@ inFeed: true
 hasPage: true
 inNav: true
 inLanguage: null
-starred: false
+starred: true
 keywords: []
 description: ''
-datePublished: '2016-01-01T14:47:18.957Z'
-dateModified: '2016-01-01T14:47:14.751Z'
+datePublished: '2016-01-03T11:52:07.195Z'
+dateModified: '2016-01-01T14:49:12.286Z'
 title: the great pretender
 author: []
 sourcePath: _posts/2015-12-31-the-great-pretender.md
