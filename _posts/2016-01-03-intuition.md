@@ -6,23 +6,23 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-03T11:56:11.493Z'
-dateModified: '2016-01-03T11:55:16.919Z'
+datePublished: '2016-01-04T11:00:52.331Z'
+dateModified: '2016-01-04T11:00:45.731Z'
 title: 'Intuition '
 author: []
+sourcePath: _posts/2016-01-03-intuition.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-01-03-intuition.md
-published: true
 url: intuition/index.html
 _type: Article
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/2c104340-a58e-4c2a-9e06-42917e65eabe.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/f3620e90cccd5507162f11ab7ef832930d824eed.jpg)
 
 The conscious and subconscious,
 the inner and outer man,
