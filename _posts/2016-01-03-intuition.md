@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-04T11:00:52.331Z'
-dateModified: '2016-01-04T11:00:45.731Z'
+datePublished: '2016-01-04T14:17:18.673Z'
+dateModified: '2016-01-04T14:17:14.349Z'
 title: 'Intuition '
 author: []
 sourcePath: _posts/2016-01-03-intuition.md
