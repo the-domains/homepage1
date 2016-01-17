@@ -1,25 +1,25 @@
 ---
-inFeed: true
+inFeed: false
 hasPage: true
 inNav: true
 inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-04T13:35:35.538Z'
-dateModified: '2016-01-04T13:35:20.103Z'
+datePublished: '2016-01-17T14:10:00.560Z'
+dateModified: '2016-01-17T14:09:58.267Z'
 title: I see my Breath
 author: []
+sourcePath: _posts/2016-01-04-i-see-my-breath.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-01-04-i-see-my-breath.md
-published: true
 url: i-see-my-breath/index.html
-_type: Article
+_type: WebPage
 
 ---
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/208013eb66b83f0a63a457bf538b0acd14cf9b86.jpg)
