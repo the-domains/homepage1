@@ -4,14 +4,14 @@
         <description><![CDATA[Homepage1]]></description>
         <link>https://thegrid.ai/homepage1/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 19 Jan 2016 13:57:09 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 19 Jan 2016 13:56:31 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/homepage1/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Am I?]]></title>
             <description><![CDATA[<article><h1>Am I?</h1><p>Am I some idea, </p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/44f3e92c21f989f612b90601ff3eb0c78bb46a7f.jpg"></article>]]></description>
             <link>https://thegrid.ai/homepage1/am-i/index.html</link>
             <guid isPermaLink="false">192b264a-90af-47a7-8680-381a6f580835</guid>
-            <pubDate>Tue, 19 Jan 2016 13:56:30 GMT</pubDate>
+            <pubDate>Tue, 19 Jan 2016 13:55:25 GMT</pubDate>
         </item>
     </channel>
 </rss>
