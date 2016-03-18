@@ -6,18 +6,18 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-03-18T10:58:39.525Z'
-dateModified: '2016-03-18T10:58:39.224Z'
+datePublished: '2016-03-18T12:34:35.251Z'
+dateModified: '2016-03-18T12:34:00.783Z'
 title: Dragonfly/Butterfly
 author: []
+sourcePath: _posts/2016-03-18-dragonflybutterfly.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-03-18-dragonflybutterfly.md
-published: true
 url: dragonflybutterfly/index.html
 _type: WebPage
 
