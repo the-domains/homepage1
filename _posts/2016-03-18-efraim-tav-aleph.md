@@ -6,18 +6,18 @@ inLanguage: null
 starred: false
 keywords: []
 description: Efraim-Tav Aleph in Hebrew letters
-datePublished: '2016-03-18T13:30:42.529Z'
-dateModified: '2016-03-18T13:30:21.645Z'
+datePublished: '2016-03-18T14:14:32.406Z'
+dateModified: '2016-03-18T14:13:50.974Z'
 title: Efraim-Tav Aleph
 author: []
+sourcePath: _posts/2016-03-18-efraim-tav-aleph.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-03-18-efraim-tav-aleph.md
-published: true
 url: efraim-tav-aleph/index.html
 _type: WebPage
 
