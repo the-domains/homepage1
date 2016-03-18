@@ -1,6 +1,6 @@
 name: Stone Carving Sculptures
 favicon: null
-layout_spectrum: 1
+layout_spectrum: 0.98341
 typography_spectrum: 0.93216
 title: Stone Carving Sculptures
 cta:
@@ -23,7 +23,7 @@ color:
     - '#903e28'
     - '#86887b'
   brandStrength: 0.1875
-  lightness: 0.5
-  saturation: 0.5
-  rhythmicContrast: 0.5
+  lightness: 0.75
+  saturation: 0.75
+  rhythmicContrast: 0.25
 purpose: []
