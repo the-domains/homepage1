@@ -1,4 +1,4 @@
-name: Homepage1
+name: Stone Carving Sculptures
 favicon: null
 layout_spectrum: 0.6456
 typography_spectrum: 0.93216
@@ -17,13 +17,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#070713'
-    - '#9a9083'
-    - '#dccfc9'
-    - '#534949'
-    - '#fffdf9'
+    - '#e3eef0'
+    - '#b9bab4'
+    - '#270e0a'
+    - '#903e28'
+    - '#86887b'
   brandStrength: 0.25
-  lightness: 0.10701844445429742
-  saturation: 0.25
-  rhythmicContrast: 0.75
+  lightness: 0.5
+  saturation: 0.5
+  rhythmicContrast: 0.5
 purpose: []
