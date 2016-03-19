@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: For many more - click titles above on menu page - for even more stone carving sculptures please visit my site on Shutterfly here
-datePublished: '2016-03-19T10:56:20.966Z'
-dateModified: '2016-03-19T10:56:16.146Z'
+datePublished: '2016-03-19T10:57:26.644Z'
+dateModified: '2016-03-19T10:57:17.997Z'
 title: YHVH
 author: []
 sourcePath: _posts/2016-03-18-yhvh-moses-on-the-mountain-burning-bush-yud-hey-vav-hey.md
@@ -28,6 +28,7 @@ For many more - click titles above on menu page - for even more stone carving sc
 
 _[http://richokun.shutterfly.com/][0]_
 
+  
 YHVH Moses on the mountain - Burning Bush Yud, Hey, Vav, Hey Front Feminine side - the letters are the burning bush and flames
 
 For many more - click titles above on menu page - for even more stone carving sculptures please visit my site on Shutterfly here _[http://richokun.shutterfly.com/][0]_
