@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: "YHVH Moses on the mountain\_- Burning Bush Yud, Hey, Vav, Hey Front Feminine side - the letters are the burning bush and flames"
-datePublished: '2016-03-19T11:03:59.863Z'
-dateModified: '2016-03-19T11:03:40.755Z'
+datePublished: '2016-03-19T11:04:09.908Z'
+dateModified: '2016-03-19T11:04:07.313Z'
 title: YHVH
 author: []
 sourcePath: _posts/2016-03-18-yhvh-moses-on-the-mountain-burning-bush-yud-hey-vav-hey.md
@@ -23,8 +23,6 @@ _type: Article
 
 ---
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/d146a892555876f2eacf7f3d1d941390cb3e107a.jpg)
-
-## 
 
 YHVH Moses on the mountain - Burning Bush Yud, Hey, Vav, Hey Front Feminine side - the letters are the burning bush and flames
 
