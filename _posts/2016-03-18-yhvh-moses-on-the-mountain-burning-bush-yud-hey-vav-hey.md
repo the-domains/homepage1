@@ -6,8 +6,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: '- for even more stone carving sculptures please visit my site on Shutterfly here http://richokun.shutterfly.com/'
-datePublished: '2016-03-20T10:32:02.692Z'
-dateModified: '2016-03-20T10:32:02.217Z'
+datePublished: '2016-03-20T15:17:32.931Z'
+dateModified: '2016-03-20T15:17:20.086Z'
 title: YHVH
 author: []
 sourcePath: _posts/2016-03-18-yhvh-moses-on-the-mountain-burning-bush-yud-hey-vav-hey.md
@@ -23,6 +23,8 @@ _type: Article
 
 ---
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/d146a892555876f2eacf7f3d1d941390cb3e107a.jpg)
+
+Click picture to learn more
 
 - for even more stone carving sculptures please visit my site on Shutterfly here _[http://richokun.shutterfly.com/][0]_
 
