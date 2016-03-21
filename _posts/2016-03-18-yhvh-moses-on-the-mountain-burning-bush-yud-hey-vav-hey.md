@@ -5,9 +5,9 @@ inNav: true
 inLanguage: null
 starred: true
 keywords: []
-description: '- for even more stone carving sculptures please visit my site on Shutterfly here http://richokun.shutterfly.com/'
-datePublished: '2016-03-20T15:17:44.795Z'
-dateModified: '2016-03-20T15:17:41.040Z'
+description: Click picture to learn more
+datePublished: '2016-03-21T18:53:09.688Z'
+dateModified: '2016-03-21T18:53:06.884Z'
 title: YHVH
 author: []
 sourcePath: _posts/2016-03-18-yhvh-moses-on-the-mountain-burning-bush-yud-hey-vav-hey.md
@@ -29,6 +29,34 @@ Click picture to learn more
 - for even more stone carving sculptures please visit my site on Shutterfly here _[http://richokun.shutterfly.com/][0]_
 
 ----------
+
+"I believe that one defines oneself by reinvention. To not be like your parents. To not be like your friends. To be yourself. To cut yourself out of stone."- Henry Rollins
+
+Choose which stone
+
+from which to cut,
+
+to make of your own,
+
+and answer from what.
+
+Your life is made
+
+of the stuff you choose
+
+lemons to lemonade
+
+to win or to lose.
+
+So,
+
+from which stone are you cut,
+
+which shape do you take;
+
+smooth, rough or textured
+
+which path do you make.
 
 Catlinite, is the stone that has been used by Native Americans to carve their pipes for many centuries and is said to be the flesh and blood of their ancestors. It lends itself to the form and shape of the vibrational energies that created all things - the hebrew letters. The hebrew alphabet being one of the sacred alphabets, which represents expressions of creation. Carving the sacred hebrew letters from this sacred red pipestone, blends the two spiritual paths that resonate with me, Native American and Kabbalah. The words (entanglement of letters) are trying to express their essence.  I consider myself and work to be spiritual, not religious.  There is no judgment in that statement or my beliefs. I honor and respect all paths.
 
