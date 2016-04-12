@@ -6,8 +6,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: Click picture to learn more
-datePublished: '2016-03-21T18:53:09.688Z'
-dateModified: '2016-03-21T18:53:06.884Z'
+datePublished: '2016-04-12T22:52:15.000Z'
+dateModified: '2016-04-12T22:51:57.896Z'
 title: YHVH
 author: []
 sourcePath: _posts/2016-03-18-yhvh-moses-on-the-mountain-burning-bush-yud-hey-vav-hey.md
@@ -50,13 +50,9 @@ to win or to lose.
 
 So,
 
-from which stone are you cut,
+from which stone are you cut, which shape do you take;
 
-which shape do you take;
-
-smooth, rough or textured
-
-which path do you make.
+smooth, rough or textured which path do you make.
 
 Catlinite, is the stone that has been used by Native Americans to carve their pipes for many centuries and is said to be the flesh and blood of their ancestors. It lends itself to the form and shape of the vibrational energies that created all things - the hebrew letters. The hebrew alphabet being one of the sacred alphabets, which represents expressions of creation. Carving the sacred hebrew letters from this sacred red pipestone, blends the two spiritual paths that resonate with me, Native American and Kabbalah. The words (entanglement of letters) are trying to express their essence.  I consider myself and work to be spiritual, not religious.  There is no judgment in that statement or my beliefs. I honor and respect all paths.
 
