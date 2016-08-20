@@ -5,21 +5,17 @@ inNav: true
 inLanguage: null
 keywords: []
 description: Click picture to learn more
-datePublished: '2016-08-20T12:27:45.309Z'
-dateModified: '2016-08-20T12:27:44.882Z'
+datePublished: '2016-08-20T12:27:46.645Z'
+dateModified: '2016-08-20T12:27:46.394Z'
 title: YHVH
 author:
   - name: ''
     url: ''
 sourcePath: _posts/2016-03-18-yhvh-moses-on-the-mountain-burning-bush-yud-hey-vav-hey.md
 authors: []
-publisher:
-  name: ''
-  domain: null
-  url: ''
-  favicon: null
+publisher: {}
 via: {}
-starred: false
+starred: true
 url: yhvh-moses-on-the-mountain-burning-bush-yud-hey-vav-hey/index.html
 _type: Article
 
