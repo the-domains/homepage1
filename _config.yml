@@ -1,7 +1,18 @@
+layout_spectrum: 0.5308955474756658
+typography_spectrum: 0.8496476309373975
+color:
+  brandColors:
+    - '#FF6138'
+    - '#FFFF9D'
+    - '#BEEB9F'
+    - '#79BD8F'
+    - '#00A388'
+  brandStrength: 0.15331931319087744
+  lightness: 0.32387023232877254
+  saturation: 0.3785824505612254
+  rhythmicContrast: 0.7162427580915391
 name: Stone Carving Sculptures
 favicon: null
-layout_spectrum: 0.9222134798765182
-typography_spectrum: 0.5049663246609271
 title: Stone Carving Sculptures
 cta:
   domain: null
@@ -15,15 +26,4 @@ opengraph:
   image: null
   type: null
   appId: null
-color:
-  brandColors:
-    - '#ffffff'
-    - '#81817f'
-    - '#26170b'
-    - '#58371d'
-    - '#c2b391'
-  brandStrength: 0.6664031764958054
-  lightness: 0.2785366775933653
-  saturation: 0.15020227245986462
-  rhythmicContrast: 0.043098370311781764
 purpose: []
