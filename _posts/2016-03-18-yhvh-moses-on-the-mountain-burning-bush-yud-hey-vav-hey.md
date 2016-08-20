@@ -1,19 +1,23 @@
 ---
+datePublished: '2016-08-20T12:27:57.678Z'
+sourcePath: _posts/2016-03-18-yhvh-moses-on-the-mountain-burning-bush-yud-hey-vav-hey.md
 inFeed: true
+authors: []
 hasPage: true
-inNav: true
-inLanguage: null
 keywords: []
-description: Click picture to learn more
-datePublished: '2016-08-20T12:27:46.645Z'
-dateModified: '2016-08-20T12:27:46.394Z'
-title: YHVH
 author:
   - name: ''
     url: ''
-sourcePath: _posts/2016-03-18-yhvh-moses-on-the-mountain-burning-bush-yud-hey-vav-hey.md
-authors: []
-publisher: {}
+dateModified: '2016-08-20T12:27:57.251Z'
+title: YHVH
+publisher:
+  name: ''
+  domain: null
+  url: ''
+  favicon: null
+description: Click picture to learn more
+inLanguage: null
+inNav: true
 via: {}
 starred: true
 url: yhvh-moses-on-the-mountain-burning-bush-yud-hey-vav-hey/index.html
@@ -52,7 +56,7 @@ from which stone are you cut, which shape do you take;
 
 smooth, rough or textured which path do you make.
 
-Catlinite, is the stone that has been used by Native Americans to carve their pipes for many centuries and is said to be the flesh and blood of their ancestors. It lends itself to the form and shape of the vibrational energies that created all things - the hebrew letters. The hebrew alphabet being one of the sacred alphabets, which represents expressions of creation. Carving the sacred hebrew letters from this sacred red pipestone, blends the two spiritual paths that resonate with me, Native American and Kabbalah. The words (entanglement of letters) are trying to express their essence.  I consider myself and work to be spiritual, not religious.  There is no judgment in that statement or my beliefs. I honor and respect all paths.
+Catlinite, is the stone that has been used by Native Americans to carve their pipes for many centuries and is said to be the flesh and blood of their ancestors. It lends itself to the form and shape of the vibrational energies that created all things - the hebrew letters. The hebrew alphabet being one of the sacred alphabets, which represents expressions of creation. Carving the sacred hebrew letters from this sacred red pipestone, blends the two spiritual paths that resonate with me, Native American and Kabbalah. The words (entanglement of letters) are trying to express their essence. I consider myself and work to be spiritual, not religious. There is no judgment in that statement or my beliefs. I honor and respect all paths.
 
 YHVH Moses on the mountain - Burning Bush Yud, Hey, Vav, Hey Front Feminine side - the letters are the burning bush and flames (top).
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/e27565ee-eebb-4c1a-948b-5083e8c29f76.jpg)
