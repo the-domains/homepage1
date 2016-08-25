@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-25T11:00:59.660Z'
+datePublished: '2016-08-25T12:32:30.971Z'
 sourcePath: _posts/2016-03-18-yhvh-moses-on-the-mountain-burning-bush-yud-hey-vav-hey.md
 inFeed: true
 authors: []
@@ -9,7 +9,7 @@ author:
   - name: ''
     url: ''
 via: {}
-dateModified: '2016-08-25T11:00:59.090Z'
+dateModified: '2016-08-25T12:32:30.379Z'
 title: YHVH
 publisher: {}
 description: Click picture to learn more
