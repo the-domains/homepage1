@@ -1,27 +1,24 @@
 ---
-datePublished: '2016-08-20T12:27:57.678Z'
+datePublished: '2016-08-25T10:14:16.775Z'
 sourcePath: _posts/2016-03-18-yhvh-moses-on-the-mountain-burning-bush-yud-hey-vav-hey.md
 inFeed: true
+isBasedOnUrl: >-
+  https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/058f8752c8a09926daa77a08a2a0f5ce/passthrough.jpg?height=600&input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2Fe5e4acf1-9827-4184-83aa-fe766eb42bd2.jpg
 authors: []
-hasPage: true
+hasPage: false
 keywords: []
 author:
   - name: ''
     url: ''
-dateModified: '2016-08-20T12:27:57.251Z'
+via: {}
+dateModified: '2016-08-25T10:13:42.714Z'
 title: YHVH
-publisher:
-  name: ''
-  domain: null
-  url: ''
-  favicon: null
+publisher: {}
 description: Click picture to learn more
 inLanguage: null
 inNav: true
-via: {}
 starred: true
-url: yhvh-moses-on-the-mountain-burning-bush-yud-hey-vav-hey/index.html
-_type: Article
+_type: MediaObject
 
 ---
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/d146a892555876f2eacf7f3d1d941390cb3e107a.jpg)
