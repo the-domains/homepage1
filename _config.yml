@@ -52,6 +52,9 @@ navigation:
   - name: Healing
     id: 47429fd4-a95e-4ad5-9d03-500b24320181
     type: content
+  - name: Efraim
+    id: eaf54b75-6ea4-4616-9e2e-d4d44b1dff0c
+    type: content
 favicon: null
 title: Stone Carving Sculptures
 purpose: []
