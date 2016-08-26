@@ -91,6 +91,9 @@ navigation:
   - name: Wisdom
     id: 6ab3c9cb-e88c-49cf-834d-88d9bcbc45fd
     type: content
+  - name: YHVH
+    id: d731599b-4507-4072-8367-28359027ca02
+    type: content
 favicon: null
 title: Stone Carving Sculptures
 purpose: []
