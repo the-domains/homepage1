@@ -3,21 +3,23 @@ inFeed: false
 hasPage: true
 inNav: true
 inLanguage: null
-starred: false
 keywords: []
-description: Efraim-Tav Aleph in Hebrew letters
-datePublished: '2016-03-18T16:24:20.588Z'
-dateModified: '2016-03-18T16:24:18.583Z'
+description: ''
+datePublished: '2016-08-26T09:28:28.089Z'
+dateModified: '2016-08-26T09:28:27.754Z'
 title: Efraim-Tav Aleph
-author: []
+author:
+  - name: ''
+    url: ''
 sourcePath: _posts/2016-03-18-efraim-tav-aleph.md
-published: true
 authors: []
 publisher:
-  name: null
+  name: ''
   domain: null
-  url: null
+  url: ''
   favicon: null
+via: {}
+starred: false
 url: efraim-tav-aleph/index.html
 _type: WebPage
 
