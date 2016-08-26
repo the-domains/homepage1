@@ -46,6 +46,9 @@ navigation:
   - name: Life
     id: bc0eaab8-f6df-402d-9091-915e047d7377
     type: content
+  - name: Jayle el
+    id: d026daad-b90b-4acb-b838-a33164ae12bd
+    type: content
 favicon: null
 title: Stone Carving Sculptures
 purpose: []
