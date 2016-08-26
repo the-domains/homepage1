@@ -31,6 +31,9 @@ navigation:
   - name: Lamed Vav
     id: 847b8d03-bae4-42e9-9b8c-1663b7b1c285
     type: content
+  - name: YHVH man
+    id: da07ca1d-3247-40a2-871d-0ccc9e828ffa
+    type: content
 favicon: null
 title: Stone Carving Sculptures
 purpose: []
