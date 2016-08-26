@@ -64,6 +64,9 @@ navigation:
   - name: Shalom
     id: 6e40e2d0-6442-4d4a-974f-b63924ce4c05
     type: content
+  - name: Mother
+    id: db2e64d2-beff-42b6-b3fa-1f1421377c3f
+    type: content
 favicon: null
 title: Stone Carving Sculptures
 purpose: []
