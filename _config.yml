@@ -55,6 +55,9 @@ navigation:
   - name: Efraim
     id: eaf54b75-6ea4-4616-9e2e-d4d44b1dff0c
     type: content
+  - name: Angel
+    id: 3b219d2e-8dbd-4e3b-b024-50ac88b3c37e
+    type: content
 favicon: null
 title: Stone Carving Sculptures
 purpose: []
