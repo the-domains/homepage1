@@ -3,21 +3,23 @@ inFeed: false
 hasPage: true
 inNav: true
 inLanguage: null
-starred: false
 keywords: []
-description: Here I AM in HEbrew
-datePublished: '2016-03-18T13:07:04.133Z'
-dateModified: '2016-03-18T13:06:41.783Z'
+description: Here AM I in hebrew
+datePublished: '2016-08-26T09:28:44.661Z'
+dateModified: '2016-08-26T09:28:44.228Z'
 title: Heenainee
-author: []
+author:
+  - name: ''
+    url: ''
 authors: []
 publisher:
-  name: null
+  name: ''
   domain: null
-  url: null
+  url: ''
   favicon: null
 sourcePath: _posts/2016-03-18-heenainee.md
-published: true
+via: {}
+starred: false
 url: heenainee/index.html
 _type: WebPage
 
