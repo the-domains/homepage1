@@ -3,21 +3,23 @@ inFeed: false
 hasPage: true
 inNav: true
 inLanguage: null
-starred: false
 keywords: []
 description: ''
-datePublished: '2016-03-18T12:35:31.246Z'
-dateModified: '2016-03-18T12:34:40.633Z'
-title: Dragonfly/Butterfly
-author: []
+datePublished: '2016-08-26T09:29:04.789Z'
+dateModified: '2016-08-26T09:29:04.279Z'
+title: Dragonfly/Butterfly necklace
+author:
+  - name: ''
+    url: ''
 sourcePath: _posts/2016-03-18-dragonflybutterfly.md
-published: true
 authors: []
 publisher:
-  name: null
+  name: ''
   domain: null
-  url: null
+  url: ''
   favicon: null
+via: {}
+starred: false
 url: dragonflybutterfly/index.html
 _type: WebPage
 
