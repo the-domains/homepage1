@@ -76,6 +76,9 @@ navigation:
   - name: Israel
     id: e20c9e4d-bdbc-4af9-a15c-8d6da2923b99
     type: content
+  - name: Heenainee
+    id: 8e398bc2-6993-4add-8ed2-22970768096b
+    type: content
 favicon: null
 title: Stone Carving Sculptures
 purpose: []
