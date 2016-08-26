@@ -67,6 +67,9 @@ navigation:
   - name: Mother
     id: db2e64d2-beff-42b6-b3fa-1f1421377c3f
     type: content
+  - name: Truth
+    id: 291ce7df-0991-4d03-a1f6-aa82f07ef19d
+    type: content
 favicon: null
 title: Stone Carving Sculptures
 purpose: []
