@@ -1,4 +1,3 @@
-layout_spectrum: 0.5308955474756658
 typography_spectrum: 0.8496476309373975
 color:
   brandColors:
@@ -11,19 +10,24 @@ color:
   lightness: 0.32387023232877254
   saturation: 0.3785824505612254
   rhythmicContrast: 0.7162427580915391
-name: Stone Carving Sculptures
-favicon: null
-title: Stone Carving Sculptures
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
 opengraph:
   image: null
   type: null
   appId: null
+layout_spectrum: 0.5308955474756658
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+name: Stone Carving Sculptures
+cta:
+  domain: null
+  bucket: null
+  version: null
+navigation:
+  - name: More Stone Carvings (lots)
+    url: 'http://richokun.shutterfly.com/'
+    type: external
+favicon: null
+title: Stone Carving Sculptures
 purpose: []
