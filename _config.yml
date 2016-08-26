@@ -37,6 +37,9 @@ navigation:
   - name: Vey Ha Ya
     id: f811b830-b515-4d61-bb27-146c12b7eef8
     type: content
+  - name: Principle
+    id: 15bcbdba-5c7d-4a43-af0c-4e4352de8369
+    type: content
 favicon: null
 title: Stone Carving Sculptures
 purpose: []
