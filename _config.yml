@@ -49,6 +49,9 @@ navigation:
   - name: Jayle el
     id: d026daad-b90b-4acb-b838-a33164ae12bd
     type: content
+  - name: Healing
+    id: 47429fd4-a95e-4ad5-9d03-500b24320181
+    type: content
 favicon: null
 title: Stone Carving Sculptures
 purpose: []
