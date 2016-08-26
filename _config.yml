@@ -79,6 +79,12 @@ navigation:
   - name: Heenainee
     id: 8e398bc2-6993-4add-8ed2-22970768096b
     type: content
+  - name: Moses
+    id: 688c354e-f321-42a9-a5d2-828e6e48422c
+    type: content
+  - name: Father
+    id: 0147993a-2f13-4655-8db0-1491dc16ed1d
+    type: content
 favicon: null
 title: Stone Carving Sculptures
 purpose: []
