@@ -82,18 +82,6 @@ navigation:
   - name: Moses
     id: 688c354e-f321-42a9-a5d2-828e6e48422c
     type: content
-  - name: Father
-    id: 0147993a-2f13-4655-8db0-1491dc16ed1d
-    type: content
-  - name: Dragonfly/Butterfly
-    id: 56285897-f18a-4c9a-8258-dc95a8b0d88a
-    type: content
-  - name: Wisdom
-    id: 6ab3c9cb-e88c-49cf-834d-88d9bcbc45fd
-    type: content
-  - name: YHVH
-    id: d731599b-4507-4072-8367-28359027ca02
-    type: content
 favicon: null
 title: Stone Carving Sculptures
 purpose: []
