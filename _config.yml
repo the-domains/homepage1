@@ -1,20 +1,20 @@
-typography_spectrum: 0.8496476309373975
+layout_spectrum: 0.08049749839119613
+typography_spectrum: 0.4500148994848132
 color:
   brandColors:
-    - '#FF6138'
-    - '#FFFF9D'
-    - '#BEEB9F'
-    - '#79BD8F'
-    - '#00A388'
-  brandStrength: 0.15331931319087744
-  lightness: 0.32387023232877254
-  saturation: 0.3785824505612254
-  rhythmicContrast: 0.7162427580915391
+    - '#B9B491'
+    - '#FFFFFF'
+    - '#9D5C86'
+    - '#DCE288'
+    - '#2D0F14'
+  brandStrength: 0.7422416775953025
+  lightness: 0.5897765844129026
+  saturation: 0.7114334162324667
+  rhythmicContrast: 0.16908837761729956
 opengraph:
   image: null
   type: null
   appId: null
-layout_spectrum: 0.5308955474756658
 analytics:
   google: null
   facebook: null
@@ -81,6 +81,18 @@ navigation:
     type: content
   - name: Moses
     id: 688c354e-f321-42a9-a5d2-828e6e48422c
+    type: content
+  - name: Father
+    id: 0147993a-2f13-4655-8db0-1491dc16ed1d
+    type: content
+  - name: Dragonfly/Butterfly
+    id: 56285897-f18a-4c9a-8258-dc95a8b0d88a
+    type: content
+  - name: Wisdom
+    id: 6ab3c9cb-e88c-49cf-834d-88d9bcbc45fd
+    type: content
+  - name: YHVH
+    id: d731599b-4507-4072-8367-28359027ca02
     type: content
 favicon: null
 title: Stone Carving Sculptures
