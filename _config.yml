@@ -1,4 +1,3 @@
-layout_spectrum: 0.9377287556417286
 typography_spectrum: 0.058872918132692575
 color:
   brandColors:
@@ -15,8 +14,9 @@ opengraph:
   image: null
   type: null
   appId: null
+layout_spectrum: 0.9377287556417286
 analytics:
-  google: null
+  google: UA-35516913-1
   facebook: null
   twitter: null
 name: Stone Carving Sculptures
