@@ -28,9 +28,6 @@ navigation:
   - name: More Stone Carvings (lots)
     url: 'http://richokun.shutterfly.com/'
     type: external
-  - name: YHVH
-    id: d731599b-4507-4072-8367-28359027ca02
-    type: content
 favicon: null
 title: Stone Carving Sculptures
 purpose: []
