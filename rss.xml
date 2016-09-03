@@ -4,7 +4,7 @@
         <description><![CDATA[Stone Carving Sculptures]]></description>
         <link>https://thegrid.ai/homepage1/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 31 Aug 2016 22:39:47 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 31 Aug 2016 23:20:22 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/homepage1/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[YHVH]]></title>
@@ -18,7 +18,21 @@
             <description><![CDATA[<article><h1>Moses</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/8244546a877a57c6474407003cc2045a2cb3967a.jpg"></article>]]></description>
             <link>https://thegrid.ai/homepage1/moses/index.html</link>
             <guid isPermaLink="false">688c354e-f321-42a9-a5d2-828e6e48422c</guid>
-            <pubDate>Wed, 31 Aug 2016 22:26:17 GMT</pubDate>
+            <pubDate>Wed, 31 Aug 2016 23:20:19 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Wisdom]]></title>
+            <description><![CDATA[<article><h1>Wisdom</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/de20532a-4067-4899-b0ef-56619f3a9410.jpg"></article>]]></description>
+            <link>https://thegrid.ai/homepage1/wisdom/index.html</link>
+            <guid isPermaLink="false">6ab3c9cb-e88c-49cf-834d-88d9bcbc45fd</guid>
+            <pubDate>Wed, 31 Aug 2016 22:27:08 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Father]]></title>
+            <description><![CDATA[<article><h1>Father</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/468aefba1cf15408daf510e40a668cd889ff947c.jpg"></article>]]></description>
+            <link>https://thegrid.ai/homepage1/father/index.html</link>
+            <guid isPermaLink="false">0147993a-2f13-4655-8db0-1491dc16ed1d</guid>
+            <pubDate>Wed, 31 Aug 2016 22:26:31 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Heenanie]]></title>
@@ -61,20 +75,6 @@
             <link>https://thegrid.ai/homepage1/aladiah/index.html</link>
             <guid isPermaLink="false">a5c2c406-4d38-4211-80cc-13f3a5df8637</guid>
             <pubDate>Wed, 31 Aug 2016 22:24:31 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Angel]]></title>
-            <description><![CDATA[<article><h1>Angel</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/c6a707cff7b28d0051faa61611c7f98c4d0fca25.jpg"></article>]]></description>
-            <link>https://thegrid.ai/homepage1/angel/index.html</link>
-            <guid isPermaLink="false">3b219d2e-8dbd-4e3b-b024-50ac88b3c37e</guid>
-            <pubDate>Wed, 31 Aug 2016 22:24:09 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Efraim]]></title>
-            <description><![CDATA[<article><h1>Efraim</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/0bc371a6-e136-4442-afd0-4e05610f3c47.jpg"></article>]]></description>
-            <link>https://thegrid.ai/homepage1/efraim/index.html</link>
-            <guid isPermaLink="false">eaf54b75-6ea4-4616-9e2e-d4d44b1dff0c</guid>
-            <pubDate>Wed, 31 Aug 2016 22:23:54 GMT</pubDate>
         </item>
     </channel>
 </rss>
