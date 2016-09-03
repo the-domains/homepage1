@@ -1,27 +1,24 @@
 ---
-inFeed: false
+datePublished: '2016-08-31T22:25:56.673Z'
+sourcePath: _posts/2016-03-18-heenainee.md
+inFeed: true
+authors: []
 hasPage: true
-inNav: true
-inLanguage: null
 keywords: []
-description: Here AM I in hebrew
-datePublished: '2016-08-26T09:28:44.661Z'
-dateModified: '2016-08-26T09:28:44.228Z'
-title: Heenainee
 author:
   - name: ''
     url: ''
-authors: []
-publisher:
-  name: ''
-  domain: null
-  url: ''
-  favicon: null
-sourcePath: _posts/2016-03-18-heenainee.md
 via: {}
+dateModified: '2016-08-31T22:25:56.122Z'
+title: Heenanie
+publisher: {}
+description: Here AM I in hebrew
+inLanguage: null
+inNav: true
 starred: false
 url: heenainee/index.html
-_type: WebPage
+_type: Article
 
 ---
+# Heenanie
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/38986054-b6d2-4643-b566-f7c247f4a689.jpg)
