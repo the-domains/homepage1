@@ -28,9 +28,6 @@ navigation:
   - name: More Stone Carvings (lots)
     url: 'http://richokun.shutterfly.com/'
     type: external
-  - name: Love
-    id: 2d07139e-cae4-4bec-b7bc-41657c970bb1
-    type: content
   - name: Life
     id: bc0eaab8-f6df-402d-9091-915e047d7377
     type: content
