@@ -28,9 +28,6 @@ navigation:
   - name: More Stone Carvings (lots)
     url: 'http://richokun.shutterfly.com/'
     type: external
-  - name: Dragonfly/Butterfly
-    id: 56285897-f18a-4c9a-8258-dc95a8b0d88a
-    type: content
   - name: Wisdom
     id: 6ab3c9cb-e88c-49cf-834d-88d9bcbc45fd
     type: content
