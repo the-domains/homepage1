@@ -4,7 +4,7 @@
         <description><![CDATA[Stone Carving Sculptures]]></description>
         <link>https://thegrid.ai/homepage1/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 31 Aug 2016 22:39:45 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 31 Aug 2016 22:39:47 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/homepage1/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[YHVH]]></title>
@@ -12,6 +12,13 @@
             <link>https://thegrid.ai/homepage1/yhvh/index.html</link>
             <guid isPermaLink="false">d731599b-4507-4072-8367-28359027ca02</guid>
             <pubDate>Fri, 26 Aug 2016 09:29:19 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Moses]]></title>
+            <description><![CDATA[<article><h1>Moses</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/8244546a877a57c6474407003cc2045a2cb3967a.jpg"></article>]]></description>
+            <link>https://thegrid.ai/homepage1/moses/index.html</link>
+            <guid isPermaLink="false">688c354e-f321-42a9-a5d2-828e6e48422c</guid>
+            <pubDate>Wed, 31 Aug 2016 22:26:17 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Heenanie]]></title>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/homepage1/efraim/index.html</link>
             <guid isPermaLink="false">eaf54b75-6ea4-4616-9e2e-d4d44b1dff0c</guid>
             <pubDate>Wed, 31 Aug 2016 22:23:54 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Healing]]></title>
-            <description><![CDATA[<article><h1>Healing</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/a999d4f4-6a35-4494-8831-c2ccc0bda5bb.jpg"></article>]]></description>
-            <link>https://thegrid.ai/homepage1/healing/index.html</link>
-            <guid isPermaLink="false">47429fd4-a95e-4ad5-9d03-500b24320181</guid>
-            <pubDate>Wed, 31 Aug 2016 22:23:34 GMT</pubDate>
         </item>
     </channel>
 </rss>
