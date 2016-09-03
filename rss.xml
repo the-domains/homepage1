@@ -4,7 +4,7 @@
         <description><![CDATA[Stone Carving Sculptures]]></description>
         <link>https://thegrid.ai/homepage1/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 31 Aug 2016 22:39:50 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 31 Aug 2016 22:39:54 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/homepage1/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[YHVH]]></title>
@@ -12,6 +12,13 @@
             <link>https://thegrid.ai/homepage1/yhvh/index.html</link>
             <guid isPermaLink="false">d731599b-4507-4072-8367-28359027ca02</guid>
             <pubDate>Fri, 26 Aug 2016 09:29:19 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Wisdom]]></title>
+            <description><![CDATA[<article><h1>Wisdom</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/de20532a-4067-4899-b0ef-56619f3a9410.jpg"></article>]]></description>
+            <link>https://thegrid.ai/homepage1/wisdom/index.html</link>
+            <guid isPermaLink="false">6ab3c9cb-e88c-49cf-834d-88d9bcbc45fd</guid>
+            <pubDate>Wed, 31 Aug 2016 22:27:08 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Father]]></title>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/homepage1/aladiah/index.html</link>
             <guid isPermaLink="false">a5c2c406-4d38-4211-80cc-13f3a5df8637</guid>
             <pubDate>Wed, 31 Aug 2016 22:24:31 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Angel]]></title>
-            <description><![CDATA[<article><h1>Angel</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/c6a707cff7b28d0051faa61611c7f98c4d0fca25.jpg"></article>]]></description>
-            <link>https://thegrid.ai/homepage1/angel/index.html</link>
-            <guid isPermaLink="false">3b219d2e-8dbd-4e3b-b024-50ac88b3c37e</guid>
-            <pubDate>Wed, 31 Aug 2016 22:24:09 GMT</pubDate>
         </item>
     </channel>
 </rss>
