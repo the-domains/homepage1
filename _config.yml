@@ -28,9 +28,6 @@ navigation:
   - name: More Stone Carvings (lots)
     url: 'http://richokun.shutterfly.com/'
     type: external
-  - name: Moses
-    id: 688c354e-f321-42a9-a5d2-828e6e48422c
-    type: content
   - name: Father
     id: 0147993a-2f13-4655-8db0-1491dc16ed1d
     type: content
