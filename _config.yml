@@ -28,9 +28,6 @@ navigation:
   - name: More Stone Carvings (lots)
     url: 'http://richokun.shutterfly.com/'
     type: external
-  - name: 'Aladiah '
-    id: a5c2c406-4d38-4211-80cc-13f3a5df8637
-    type: content
   - name: Shalom
     id: 6e40e2d0-6442-4d4a-974f-b63924ce4c05
     type: content
