@@ -28,9 +28,6 @@ navigation:
   - name: More Stone Carvings (lots)
     url: 'http://richokun.shutterfly.com/'
     type: external
-  - name: Heenainee
-    id: 8e398bc2-6993-4add-8ed2-22970768096b
-    type: content
   - name: Moses
     id: 688c354e-f321-42a9-a5d2-828e6e48422c
     type: content
