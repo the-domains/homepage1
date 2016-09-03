@@ -28,9 +28,6 @@ navigation:
   - name: More Stone Carvings (lots)
     url: 'http://richokun.shutterfly.com/'
     type: external
-  - name: Truth
-    id: 291ce7df-0991-4d03-a1f6-aa82f07ef19d
-    type: content
   - name: Efraim-Tav Aleph
     id: c7d1581f-32e7-40b9-95e8-aa8bb56e3781
     type: content
