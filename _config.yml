@@ -25,7 +25,7 @@ cta:
   bucket: null
   version: null
 navigation:
-  - name: More Stone Carvings (lots)
+  - name: Click for More Stone Carvings (lots)
     url: 'http://richokun.shutterfly.com/'
     type: external
 favicon: null
