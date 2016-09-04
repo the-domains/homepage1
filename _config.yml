@@ -28,6 +28,9 @@ navigation:
   - name: Click for More Stone Carvings (lots)
     url: 'http://richokun.shutterfly.com/'
     type: external
+  - name: Me and my stone
+    id: a1e9f59c-23b2-47f8-897f-c81de7874312
+    type: content
 favicon: null
 title: Stone Carving Sculptures
 description: Sacred Catlinite carvings
